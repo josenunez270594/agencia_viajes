@@ -3,7 +3,7 @@ import os
 viajero = ''
 def fnt_limpiar():
     os.system("cls")
-    print('Autor: jose daniel nuñez \ncopyrigth-© 2024 \nUCLAM\n')
+    print('Autor: jose daniel nuñez😘 \ncopyrigth-© 2024 \nUCLAM\n')
 
 def fnt_agente(op):
     fnt_limpiar()
